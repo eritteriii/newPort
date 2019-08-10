@@ -1,0 +1,34 @@
+body {
+  background-color: black;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  min-height: 100vh;
+  margin: 0;
+  text-align: center;
+}
+
+#banner {
+  perspective: 20px;
+  display: inline-block;
+}
+
+#inner {
+  transition: transform 0.25s;
+}
+
+.navbar {
+  font-family: "Lato", sans-serif;
+  color: gray;
+}
+
+.titling {
+  font-family: "Lato", sans-serif;
+  color: gray;
+  text-align: center;
+}
+
+#nameEdBanner {
+  text-align: center;
+  padding-top: 75px;
+}
