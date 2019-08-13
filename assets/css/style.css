@@ -2,6 +2,7 @@ body {
   background-color: black;
   justify-content: center;
   align-items: center;
+  max-width: 100%;
   width: 100%;
   min-height: 100vh;
   margin: 0;
@@ -31,4 +32,37 @@ body {
 #nameEdBanner {
   text-align: center;
   padding-top: 75px;
+  max-width: 100%;
 }
+
+#transitionOne {
+    max-width: 100%;
+}
+
+#aboutDiv {
+    background-color: #2b2d2f;
+    height: 1000px;
+    max-width: 100%;
+}
+
+#transitionTwo {
+    max-width: 100%;
+}
+
+#portfolioDiv {
+    background-color: #777777; 
+    height: 1000px;
+    max-width: 100%;
+}
+
+#transitionThree {
+    max-width: 100%;
+}
+
+#contactDiv {
+    background-color: #cccccc;
+    height: 1000px;
+    max-width: 100%;
+}
+
+
